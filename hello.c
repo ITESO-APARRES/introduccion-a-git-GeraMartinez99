@@ -5,3 +5,6 @@ int main(void){
 	printf("Esta linea se agregó desde Github");
 	return 0;
 }
+void decirHola(char* nombre) {
+	printf("Hola %s, '¿cómo estás?", nombre);
+}
