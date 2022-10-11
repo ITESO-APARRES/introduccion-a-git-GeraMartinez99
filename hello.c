@@ -1,3 +1,7 @@
+	/*
+		Archivo Hello.c que usamos para nuestro
+		ejercicio de git básico
+	*/
 #include <stdio.h>
 
 int main(void){
